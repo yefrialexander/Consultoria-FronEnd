@@ -10,24 +10,31 @@ body{
     color: #000;
 }
 
-.container{
+.principal{
     width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+}
+
+.container{
+    width: 100%;
     max-width: 1000px;
     margin: 20px auto;
     display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(2,1fr);
-    grid-template-rows: repeat(2, auto);
+    /* grid-template-rows: repeat(2, auto); */
 }
 
 
 header{
-background: #67618f;
-height: 100px;
-width: 100%;
-margin: 0px;
-grid-column-start: 1;
-grid-column-end: -1;
+    display: flex;
+    background: #67618f;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    grid-column-start: 1;
+    grid-column-end: -1;
 
 }
 header h1{
