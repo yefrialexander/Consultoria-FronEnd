@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset=”UTF-8”>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Yefri Alexander Padilla">
+        <meta http-equiv = " X-UA-Compatible " content = " ie = edge " >
+        <meta name="keywords" content="html,css,xml,javascript">
+        <meta name="description" content="servicios de asesoria web">
+        <title>"CONSULTORIA G-31|REGISTRATE"</title>
+        <link rel="stylesheet" href="estilos.css">       
+    </head>
+
+    <body>
+        <header>
+            <div class="textos">
+                <h1 class="titulo"> ASESORIA Y CONSULTORIA </h1>
+                <h3 class="subtitulo">Desarrolllo integral de sitios web</h3>
+                <a href="#" class="boton">REGISTRATE</a>
+            </div>
+            <div class="sesgoabajo"></div>
+        </header>
+        <main>
+            <seccion class="acerca_de">
+                <div class="contenedor">
+                    <h2 class="sobre nosotros"> Sobre Nosotros</h2>
+                    <h3 class="slogan"> Asesores y Consultores Especializados </h3>
+                    <p class="parrafo">Somos una empresa enfocada en resaltar el talento colombiano, llevamos 6 meses en el mercado reclutando y formado profesionales con la capacidad de brindar asesoría en tus productos de software.</p>
+                    <p class="parrafo">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam corrupti molestiae eligendi! Commodi sit similique quis eius atque culpa corrupti ut, libero dicta illum doloremque repellat, dolor impedit vitae! Nulla doloremque dicta esse nam error voluptate distinctio, odit aspernatur. Ratione voluptatum, quisquam porro corrupti pariatur, expedita cumque eligendi cum doloremque officiis laboriosam beatae tempore. Labore dolore ipsam a incidunt itaque odit eveniet similique, quas facilis voluptatem placeat laudantium earum ratione.</p>
+                    <a href="#" class="boton">Registrate</a>
+                </div>
+            </seccion>
+               <section class="galeria">
+                <div class="sesgoarriba"></div>
+                   <div class="imagenes"> 
+                       <img src="D:\UNAB\FRONTEND\1.jpg" alt=""> 
+                   </div>
+                   <div class="imagenes">
+                        <img src="D:\UNAB\FRONTEND\3.jpg" alt="">
+                    </div>
+                   <div class="imagenes"> 
+                        <img src="D:\UNAB\FRONTEND\2.jpg" alt="">
+                    </div>
+                    <div class="encima">
+                        <h2> Asesores y Consultores</h2>
+                        <div></div>
+                    </div> </div>
+                    </div>
+                   <div class="imagenes">
+                        <img src="D:\UNAB\FRONTEND\4.jpeg" alt="">
+                    </div>
+                   <div class="imagenes">
+                        <img src="D:\UNAB\FRONTEND\5.jpeg" alt="">
+                    </div>
+                    <div class="sesgoabajo"></div>
+                </section>
+                <section class="miembros">
+                   <div class="contenedor">
+                       <h2 class=" sobre_nosotros"> Nuestro Equipo</h2>
+                       <h3 class="slogan">Conoce a nuestro equipo de trabajo</h3>
+                       <div class="cards">
+                           <div class="card">
+                               <img src="D:\UNAB\FRONTEND\logo.jpg" alt="">
+                               <h4> Consultores </h4>
+                               <p>Lorem ipsum dolor sit.</p>
+                        </div>
+                        <div class="card">
+                            <img src="D:\UNAB\FRONTEND\logo.jpg" alt="">
+                            <h4> Consultores </h4>
+                            <p>Lorem ipsum dolor sit.</p>
+                        </div>
+                        <div class="card">
+                            <img src="D:\UNAB\FRONTEND\logo.jpg" alt="">
+                            <h4> Consultores </h4>
+                            <p>Lorem ipsum dolor sit.</p>
+                        </div>
+                    </div>
+               </section>
+               <section class="fondo">
+                   <div class="sesgoarriba"></div>
+                   <div class="contenedor">
+                       <h2 class="titulo patrocinadores"> Nuestros Clientes</h2>
+                       <h3 class="subtitulo_patrocinadores"> Estos son algunos de nuestros clientes </h3>
+                       <div class="clientes">
+                           <div class="cliente"><img src="D:\UNAB\FRONTEND\Banner-empresarios-dandose-la-mano.jpg" alt=""></div>
+                           <div class="cliente"><img src="D:\UNAB\FRONTEND\Banner-empresarios-dandose-la-mano.jpg" alt=""></div>
+                           <div class="cliente"><img src="D:\UNAB\FRONTEND\Banner-empresarios-dandose-la-mano.jpg" alt=""></div>
+                       </div>
+                       <h3 class="subtitulo_patrocinadores_especial"> y muchos mas...</h3>
+                   </div>
+                   <div class="sesgoabajo_unico"></div>
+
+               </section>
+        </main>
+        <footer>
+            <div class="contenedor">
+                <h2 class="titulo_footer">contactanos</h2>
+                <h3 class="subtitulo_footer">lo apreciariamos mucho</h3>
+                <div class="footer">
+                    <form action="">
+                    <input type="text" name="" value="" placeholder="Nombre">
+                    <input type="email" name="" id="" placeholder="Email">
+                    <textarea name="" id="" cols="30" rows="10"></textarea>
+                    <input type="submit" value="">
+                    </form>
+                </div>
+                    
+                </footer>
+            </div>
+        </footer>
+  
+    </body>
+    
+
+
+</html>
